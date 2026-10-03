@@ -38,6 +38,7 @@ HOST,servd-anthropic-website.b-cdn.net
 HOST,storage.googleapis.com
 HOST-SUFFIX,anthropic.team
 HOST-SUFFIX,chatbotclaude.com
+HOST-SUFFIX,claude.dev
 HOST-SUFFIX,intercom.io
 HOST-SUFFIX,intercomcdn.com
 HOST-SUFFIX,interface.feedback
