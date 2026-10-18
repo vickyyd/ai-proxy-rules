@@ -148,6 +148,7 @@ HOST-SUFFIX,cursor-cdn.com
 HOST-SUFFIX,cursor.com
 HOST-SUFFIX,cursor.sh
 HOST-SUFFIX,cursorapi.com
+HOST-SUFFIX,cursorvm.com
 
 # Devin / Core
 HOST-SUFFIX,devin.ai
@@ -264,6 +265,7 @@ HOST-SUFFIX,chatgpt.site
 HOST-SUFFIX,host.livekit.cloud
 HOST-SUFFIX,oaistatsig.com
 HOST-SUFFIX,openai.com.cdn.cloudflare.net
+HOST-SUFFIX,openai.org
 HOST-SUFFIX,turn.livekit.cloud
 
 # OpenCode / Core

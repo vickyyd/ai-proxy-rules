@@ -69,6 +69,7 @@ groups:
         - oaistatsig.com
         - observeit.net
         - openai.com.cdn.cloudflare.net
+        - openai.org
         - segment.io
         - sentry.io
         - statsigapi.net
