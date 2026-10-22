@@ -56,9 +56,12 @@ groups:
         - servd-anthropic-website.b-cdn.net
         - storage.googleapis.com
       domainSuffix:
+        - //github.com/aprilnea/reverse-engineering-claude-code-antspace
+        - ant.dev
         - anthropic.team
         - chatbotclaude.com
         - claude.dev
+        - claudeacademy.com
         - intercom.io
         - intercomcdn.com
         - interface.feedback

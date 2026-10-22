@@ -69,6 +69,7 @@
     },
     {
       "domain_suffix": [
+        "//github.com/aprilnea/reverse-engineering-claude-code-antspace",
         "abtestvm-sg.bytedance.com",
         "ai.cloudflare.com",
         "ai.com",
@@ -81,6 +82,7 @@
         "algolia.net",
         "ampcode.com",
         "ampworkers.com",
+        "ant.dev",
         "anthropic.com",
         "anthropic.com.cn",
         "anthropic.team",
@@ -124,6 +126,7 @@
         "claude.dev",
         "claude.new",
         "claude.site",
+        "claudeacademy.com",
         "claudemcpclient.com",
         "claudemcpcontent.com",
         "claudepages.dev",

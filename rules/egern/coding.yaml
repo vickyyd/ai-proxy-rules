@@ -53,6 +53,7 @@ domain_set:
   - "sydney.bing.com"
   - "webchannel-alkalimakersuite-pa.clients6.google.com"
 domain_suffix_set:
+  - "//github.com/aprilnea/reverse-engineering-claude-code-antspace"
   - "abtestvm-sg.bytedance.com"
   - "ai.com"
   - "ai.google.dev"
@@ -64,6 +65,7 @@ domain_suffix_set:
   - "algolia.net"
   - "ampcode.com"
   - "ampworkers.com"
+  - "ant.dev"
   - "anthropic.com"
   - "anthropic.com.cn"
   - "anthropic.team"
@@ -99,6 +101,7 @@ domain_suffix_set:
   - "claude.dev"
   - "claude.new"
   - "claude.site"
+  - "claudeacademy.com"
   - "claudemcpclient.com"
   - "claudemcpcontent.com"
   - "claudepages.dev"

@@ -32,6 +32,7 @@ domain_set:
   - "storage.googleapis.com"
   - "webchannel-alkalimakersuite-pa.clients6.google.com"
 domain_suffix_set:
+  - "//github.com/aprilnea/reverse-engineering-claude-code-antspace"
   - "ai.cloudflare.com"
   - "ai.com"
   - "ai.google.dev"
@@ -41,6 +42,7 @@ domain_suffix_set:
   - "aisandbox-pa.googleapis.com"
   - "aistudio.google.com"
   - "algolia.net"
+  - "ant.dev"
   - "anthropic.com"
   - "anthropic.com.cn"
   - "anthropic.team"
@@ -65,6 +67,7 @@ domain_suffix_set:
   - "claude.dev"
   - "claude.new"
   - "claude.site"
+  - "claudeacademy.com"
   - "claudemcpclient.com"
   - "claudemcpcontent.com"
   - "claudepages.dev"
