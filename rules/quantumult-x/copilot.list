@@ -19,6 +19,7 @@ HOST,copilotprodattachments.blob.core.windows.net
 HOST,gateway.bingviz.microsoft.net
 HOST,gateway.bingviz.microsoftapp.net
 HOST,in.appcenter.ms
+HOST,production-copilot-host-westus.webpubsub.azure.com
 HOST,self.events.data.microsoft.com
 HOST,static.cloudflareinsights.com
 HOST,sydney.bing.com
